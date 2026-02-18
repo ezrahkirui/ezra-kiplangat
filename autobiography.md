@@ -1,6 +1,4 @@
-# My Journey: Ezra Kiplangat 🇰🇪
-
-> "Turning lines of code into solutions that matter."
+# My Journey: Ezra Kiplangat
 
 ---
 
