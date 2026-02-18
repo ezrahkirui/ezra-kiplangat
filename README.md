@@ -14,6 +14,7 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 * 📑 **Research & Project Abstracts**
   * [English Abstract (PDF)](./ABSTRACT%20english.pdf)
   * [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
+  * [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
 * 📖 **Personal History & Biography**
   * [Full Autobiography (Detailed PDF)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
   * [Autobiography Presentation (Slides PDF)](./AUTOBIOGRAPHY_PRESENTATION.pdf)
