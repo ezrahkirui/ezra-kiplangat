@@ -8,7 +8,9 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 ---
 
 ### 📂 Essential Documents
-* 📄 **[View My CV (PDF)](./your-cv-filename.pdf)** – My professional background and experience.
+* 📄 **Curriculum Vitae (CV)**
+  * [English Version (PDF)](./RESUME%20English.pdf)
+  * [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
 * 📖 **[Read My Autobiography](./autobiography.md)** – The story behind my passion for technology and development.
 
 ### 🎥 Featured Projects & Demos
@@ -33,4 +35,4 @@ Below are video walk-throughs of my latest work:
 
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/ezrah-kirui-3585b7354)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ezrahkirui02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezrahkirui02@gmail.com)
