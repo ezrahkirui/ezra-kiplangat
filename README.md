@@ -11,8 +11,9 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 * 📄 **Curriculum Vitae (CV)**
   * [English Version (PDF)](./RESUME%20English.pdf)
   * [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
-* 📖 **Personal History**
-  * [AUTOBIOGRAPHY OF EZRA KIPLANGAT (Full Version)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
+* 📖 **Personal History & Biography**
+  * [Full Autobiography (PDF)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
+  * [Autobiography Presentation (PowerPoint)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT%20POWERPOINT.pptx)
   * [Read Summary Online](./autobiography.md)
 
 ### 🎥 Featured Projects & Demos
