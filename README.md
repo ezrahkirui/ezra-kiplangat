@@ -1,6 +1,6 @@
 # Hi, I'm Ezra Kiplangat 👋
 
-<img src="banner.jpg" width="400" alt="Ezra Kiplangat Portfolio Banner">
+<img src="banner.jpg" width="100%" alt="Ezra Kiplangat Portfolio Banner">
 
 ### 🚀 Professional Summary
 I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
