@@ -19,8 +19,8 @@ a {
 }
 
 .hero-img {
-    width: 200px;
-    max-width: 40%;
+    width: 200px;  /* fixed size for desktop */
+    max-width: 200px;
     border-radius: 50%;
     margin-bottom: 1rem;
     border: 3px solid #00d1ff;
@@ -74,19 +74,14 @@ section {
     background-color: #1b1b1b;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.8s ease, transform 0.8s ease;
+    transition: all 0.8s ease;
+    opacity: 1;  /* visible by default */
+    transform: translateY(0); /* visible by default */
+}
+
+section.fade-in {
     opacity: 0;
     transform: translateY(40px);
-}
-
-section.visible {
-    opacity: 1;
-    transform: translateY(0);
-}
-
-section:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.7);
 }
 
 /* ===== BUTTONS ===== */
