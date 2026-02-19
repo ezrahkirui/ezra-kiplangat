@@ -54,3 +54,14 @@ footer {
     color: #ffcc00;
     font-weight: bold;
 }
+
+#github-stats {
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+#github-stats img {
+    margin: 0.5rem;
+    max-width: 100%;
+    border-radius: 12px;
+}
