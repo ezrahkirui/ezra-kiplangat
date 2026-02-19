@@ -1,4 +1,3 @@
-// Typing effect
 const text = ["Web Developer", "IT Student", "Problem Solver"];
 let index = 0;
 let charIndex = 0;
@@ -28,10 +27,4 @@ function erase() {
 
 document.addEventListener("DOMContentLoaded", () => {
     if (typingElement) type();
-});
-
-// Dark Mode Toggle
-const toggle = document.getElementById("darkModeToggle");
-toggle.addEventListener("click", () => {
-    document.body.classList.toggle("light-mode");
 });
