@@ -41,11 +41,11 @@ body {
     color: #005ea6;
 }
 
-/* HERO SECTION - RESTORED TO ORIGINAL WORKING STYLE */
+/* HERO SECTION - ORIGINAL WORKING VERSION */
 .hero {
     text-align: center;
-    padding: 3rem 1rem; /* Original spacing */
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+    padding: 3rem 1rem;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
                 url('baner.jpg') center/cover no-repeat;
     color: #fff;
 }
@@ -59,7 +59,6 @@ body {
     font-size: 1.2rem;
     color: #ddd;
 }
-
 /* Fade-in animation */
 @keyframes fadeInUp {
     to {
@@ -154,5 +153,6 @@ section img {
     .navbar ul { flex-direction: column; }
     .navbar li { margin: 0.5rem 0; }
 }
+
 
 
