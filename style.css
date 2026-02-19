@@ -79,6 +79,7 @@ section {
     transform: translateY(0); /* visible by default */
 }
 
+/* fade-in for scrolling sections */
 section.fade-in {
     opacity: 0;
     transform: translateY(40px);
