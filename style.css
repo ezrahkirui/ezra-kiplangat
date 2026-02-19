@@ -41,20 +41,54 @@ body {
     color: #005ea6;
 }
 
-/* Hero */
+/* Hero - Professional Look with Parallax and Overlay */
 .hero {
+    position: relative;
     text-align: center;
-    padding: 3rem 1rem;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('baner.jpg') center/cover no-repeat;
+    padding: 3rem 1rem; /* Keep original spacing */
     color: #fff;
+    background: url('baner.jpg') center/cover no-repeat fixed; /* parallax effect */
+    overflow: hidden;
 }
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4); /* subtle dark overlay */
+    z-index: 1;
+}
+
+.hero h1,
+.hero-subtitle {
+    position: relative; /* above overlay */
+    z-index: 2;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s forwards;
+}
+
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
+    animation-delay: 0.3s;
 }
+
 .hero-subtitle {
     font-size: 1.2rem;
     color: #ddd;
+    animation-delay: 0.6s;
+}
+
+/* Fade-in animation */
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* Sections */
@@ -143,3 +177,4 @@ section img {
     .navbar ul { flex-direction: column; }
     .navbar li { margin: 0.5rem 0; }
 }
+
