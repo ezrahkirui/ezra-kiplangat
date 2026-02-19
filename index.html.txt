@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ezra Kiplangat | Web Developer</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behavior:smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background:#f8f9fa;
+    color:#1a1a1a;
+    line-height:1.6;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+    padding:80px 0;
+}
+
+nav{
+    position:fixed;
+    width:100%;
+    background:#ffffff;
+    padding:20px 0;
+    box-shadow:0 2px 10px rgba(0,0,0,0.05);
+    z-index:1000;
+}
+
+nav .nav-container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+nav a{
+    text-decoration:none;
+    color:#333;
+    margin-left:30px;
+    font-weight:500;
+}
+
+.hero{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    background:#ffffff;
+}
+
+.hero img{
+    width:180px;
+    border-radius:50%;
+    margin-bottom:30px;
+}
+
+.hero h1{
+    font-size:48px;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:20px;
+    max-width:600px;
+    margin:auto;
+    color:#555;
+}
+
+.section-title{
+    font-size:32px;
+    margin-bottom:40px;
+    font-weight:700;
+    text-align:center;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));
+    gap:30px;
+}
+
+.card{
+    background:#ffffff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.05);
+    transition:0.3s ease;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 15px 35px rgba(0,0,0,0.08);
+}
+
+.card h3{
+    margin-bottom:15px;
+}
+
+.skills span{
+    display:inline-block;
+    background:#e9ecef;
+    padding:8px 15px;
+    border-radius:20px;
+    margin:5px;
+    font-size:14px;
+}
+
+.github-stats{
+    text-align:center;
+}
+
+.github-stats img{
+    width:100%;
+    max-width:500px;
+    margin:20px 0;
+}
+
+.contact{
+    text-align:center;
+}
+
+.contact a{
+    text-decoration:none;
+    color:#000;
+    margin:0 15px;
+    font-weight:600;
+}
+
+footer{
+    text-align:center;
+    padding:40px 0;
+    background:#ffffff;
+    margin-top:60px;
+    font-size:14px;
+    color:#777;
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+    <div class="nav-container">
+        <strong>Ezra Kiplangat</strong>
+        <div>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#skills">Skills</a>
+            <a href="#github">GitHub</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div>
+</nav>
+
+<section class="hero">
+    <div>
+        <img src="baner.jpg" alt="Ezra Kiplangat">
+        <h1>Ezra Kiplangat</h1>
+        <p>Web Developer | BSc. Information Technology Student  
+        Building clean, scalable and impactful digital solutions.</p>
+    </div>
+</section>
+
+<section id="about" class="container">
+    <h2 class="section-title">Professional Profile</h2>
+    <p style="text-align:center; max-width:800px; margin:auto;">
+        I am a Web Developer and Information Technology student at Dedan Kimathi University of Technology (DeKUT).
+        My focus is on developing structured, user-centered digital experiences with performance,
+        scalability, and clean architecture in mind.
+    </p>
+</section>
+
+<section id="projects" class="container">
+    <h2 class="section-title">Featured Projects</h2>
+    <div class="grid">
+
+        <div class="card">
+            <h3>Baseball Analytics System</h3>
+            <p>Full-stack Flask application with authentication, CSV upload, role-based access control, and predictive modeling.</p>
+        </div>
+
+        <div class="card">
+            <h3>Blockchain Research Study</h3>
+            <p>Academic research on blockchain integration in supply chains, exploring transparency and decentralization impact.</p>
+        </div>
+
+        <div class="card">
+            <h3>Community-Centric Design Research</h3>
+            <p>Exploration of Ubuntu philosophy and gender awareness in African technology design frameworks.</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="skills" class="container">
+    <h2 class="section-title">Technical Expertise</h2>
+    <div class="skills" style="text-align:center;">
+        <span>HTML5</span>
+        <span>CSS3</span>
+        <span>JavaScript</span>
+        <span>Python</span>
+        <span>Flask</span>
+        <span>SQL</span>
+        <span>MySQL</span>
+        <span>Git</span>
+        <span>GitHub</span>
+        <span>Cybersecurity</span>
+        <span>Blockchain</span>
+        <span>AI</span>
+    </div>
+</section>
+
+<section id="github" class="container github-stats">
+    <h2 class="section-title">GitHub Performance</h2>
+
+    <!-- Replace YOUR_USERNAME with your actual GitHub username -->
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub Streak">
+</section>
+
+<section id="contact" class="container contact">
+    <h2 class="section-title">Let's Connect</h2>
+    <a href="https://ke.linkedin.com/">LinkedIn</a>
+    <a href="https://github.com/">GitHub</a>
+    <a href="mailto:ezrahkirui02@gmail.com">Email</a>
+</section>
+
+<footer>
+    © 2024 Ezra Kiplangat | Built with precision and professionalism.
+</footer>
+
+</body>
+</html>
