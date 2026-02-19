@@ -92,6 +92,7 @@ nav a:hover{
 .hero{
     height:100vh;
     display:flex;
+    flex-direction:column;
     align-items:center;
     justify-content:center;
     text-align:center;
@@ -133,6 +134,15 @@ nav a:hover{
     color:#ccc;
 }
 
+.typing-text {
+    font-weight:600;
+    color: var(--primary-color);
+    border-right: 2px solid var(--primary-color);
+    display:inline;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
 .section-title{
     font-size:34px;
     margin-bottom:50px;
@@ -162,6 +172,12 @@ nav a:hover{
 .card:hover{
     transform:translateY(-8px);
     box-shadow:0 15px 40px rgba(0,0,0,0.08);
+}
+
+.card img{
+    width:100%;
+    border-radius:8px;
+    margin-bottom:15px;
 }
 
 .card h3{
@@ -231,7 +247,6 @@ footer{
     color:#aaa;
 }
 
-/* Dark Mode Toggle Button */
 #darkToggle{
     position:fixed;
     bottom:20px;
@@ -275,8 +290,7 @@ footer{
     <div>
         <img src="baner.jpg" alt="Ezra Kiplangat">
         <h1>Ezra Kiplangat</h1>
-        <p>Web Developer | BSc. Information Technology Student  
-        Building clean, scalable, and impactful digital solutions.</p>
+        <p>I am a <span class="typing-text"></span></p>
     </div>
 </section>
 
@@ -296,16 +310,19 @@ footer{
     <div class="grid">
 
         <div class="card">
+            <img src="project1.jpg" alt="Baseball Analytics">
             <h3>Baseball Analytics System</h3>
             <p>Full-stack Flask system with authentication, CSV upload, RBAC admin panel, and predictive modeling integration.</p>
         </div>
 
         <div class="card">
+            <img src="project2.jpg" alt="Blockchain Research">
             <h3>Blockchain Supply Chain Research</h3>
             <p>Analytical research exploring blockchain implementation in African supply chain systems for transparency and trust.</p>
         </div>
 
         <div class="card">
+            <img src="project3.jpg" alt="Community Design">
             <h3>Community-Centric Design Study</h3>
             <p>Research on Ubuntu philosophy integration and gender-aware technology frameworks in African innovation systems.</p>
         </div>
@@ -352,15 +369,51 @@ footer{
     © 2024 Ezra Kiplangat | Built with precision and professionalism.
 </footer>
 
-<!-- Dark Mode Toggle Button -->
+<!-- Dark Mode Toggle -->
 <button id="darkToggle">Toggle Dark Mode</button>
 
 <!-- Scripts -->
 <script>
+// Dark Mode Auto Detection
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.body.classList.add('dark-mode');
+}
+
+// Dark Mode Toggle Button
 const toggle = document.getElementById('darkToggle');
 toggle.addEventListener('click', () => {
     document.body.classList.toggle('dark-mode');
 });
+
+// Typing Effect in Hero Section
+const typingText = document.querySelector('.typing-text');
+const words = ['Web Developer', 'IT Student', 'Full-Stack Enthusiast', 'Problem Solver'];
+let i=0, j=0, currentWord='', isDeleting=false;
+
+function type(){
+    if(i>=words.length) i=0;
+    currentWord = words[i];
+
+    if(!isDeleting){
+        typingText.textContent = currentWord.substring(0,j+1);
+        j++;
+        if(j===currentWord.length){
+            isDeleting=true;
+            setTimeout(type,1000);
+            return;
+        }
+    } else{
+        typingText.textContent = currentWord.substring(0,j-1);
+        j--;
+        if(j===0){
+            isDeleting=false;
+            i++;
+        }
+    }
+    setTimeout(type,100);
+}
+
+type();
 </script>
 
 </body>
