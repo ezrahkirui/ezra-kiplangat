@@ -7,31 +7,42 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 
 ---
 
+### 📍 Table of Contents
+* [Essential Documents](#-essential-documents)
+* [Research & Project Abstracts](#-research--project-abstracts)
+* [Societal Analysis](#-societal-analysis--research)
+* [Visual Portfolio](#-visual-portfolio)
+* [Cultural Heritage](#-cultural-heritage--studies)
+* [Personal History](#-personal-history--biography)
+* [Tech Stack](#-tech-stack--tools)
+* [Contact](#-lets-connect)
+
+---
+
 ### 📂 Essential Documents
 * 📄 **Curriculum Vitae (CV)**
   * [English Version (PDF)](./RESUME%20English.pdf) | [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
-* 📑 **Research & Project Abstracts**
-  * [English Abstract (PDF)](./ABSTRACT%20english.pdf) | [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
-  * [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
-* 🤝 **Societal Analysis & Research**
-  * [Societal Challenges (English PDF)](./Societal%20Challenges%20english.pdf)
-  * [Societal Challenges (Swahili PDF)](./Societal%20Challenges%20swahili.pdf)
-* 🖼️ **Visual Portfolio**
-  * [PHOTOGRAPHIC ESSAY (PDF)](./PHOTOGRAPHIC%20ESSAY.pdf)
-* 🌍 **Cultural Heritage & Studies**
-  * [Kalenjin Culture (Kalenjin PDF)](./African%20Culture%20kalenjin.pdf)
-  * [African Culture (English PDF)](./African%20Culture%20english.pdf)
-  * [African Culture (Swahili PDF)](./African%20Culture%20swahili.pdf)
-* 📖 **Personal History & Biography**
-  * [Full Autobiography (Detailed PDF)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
-  * [Autobiography Presentation (Slides PDF)](./AUTOBIOGRAPHY_PRESENTATION.pdf)
-  * [Read Summary Online](./autobiography.md)
 
-### 🎥 Featured Projects & Demos
-Below are video walk-throughs of my latest work:
+### 📑 Research & Project Abstracts
+* [English Abstract (PDF)](./ABSTRACT%20english.pdf) | [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
+* [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
 
-* **Project Demo 1** – [Insert a brief description of your best project here]  
-  ▶️ **[Watch Video Demo](./video-filename.mp4)**
+### 🤝 Societal Analysis & Research
+* [Societal Challenges (English PDF)](./Societal%20Challenges%20english.pdf)
+* [Societal Challenges (Swahili PDF)](./Societal%20Challenges%20swahili.pdf)
+
+### 🖼️ Visual Portfolio
+* [PHOTOGRAPHIC ESSAY (PDF)](./PHOTOGRAPHIC%20ESSAY.pdf)
+
+### 🌍 Cultural Heritage & Studies
+* [Kalenjin Culture (Kalenjin PDF)](./African%20Culture%20kalenjin.pdf)
+* [African Culture (English PDF)](./African%20Culture%20english.pdf)
+* [African Culture (Swahili PDF)](./African%20Culture%20swahili.pdf)
+
+### 📖 Personal History & Biography
+* [Full Autobiography (Detailed PDF)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
+* [Autobiography Presentation (Slides PDF)](./AUTOBIOGRAPHY_PRESENTATION.pdf)
+* [Read Summary Online](./autobiography.md)
 
 ---
 
@@ -41,9 +52,16 @@ Below are video walk-throughs of my latest work:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Environment** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+**Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🗣️ Languages
+* **English** (Professional)
+* **Swahili** (Native/Fluent)
+* **Kalenjin** (Native)
 
 ---
 
