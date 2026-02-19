@@ -3,12 +3,13 @@
 <img src="banner.jpg" width="400" alt="Ezra Kiplangat Portfolio Banner">
 
 ### 🚀 Professional Summary
-I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKUT)**. I am passionate about building clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
+I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**. I currently maintain a **GPA of [Insert Your GPA, e.g., 3.6/4.0]**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
 
 ---
 
 ### 📍 Table of Contents
 * [Essential Documents](#-essential-documents)
+* [Academic & Coursework](#-academic--coursework)
 * [Research & Project Abstracts](#-research--project-abstracts)
 * [Societal Analysis](#-societal-analysis--research)
 * [Visual Portfolio](#-visual-portfolio)
@@ -22,6 +23,17 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 ### 📂 Essential Documents
 * 📄 **Curriculum Vitae (CV)**
   * [English Version (PDF)](./RESUME%20English.pdf) | [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
+
+### 🎓 Academic & Coursework
+**Institution:** Dedan Kimathi University of Technology (DeKUT)  
+**Major:** Bachelor of Science in Information Technology  
+
+**Key Coursework:**
+* 🌐 **Web Development:** HTML5, CSS3, JavaScript, PHP
+* 💾 **Database Management:** SQL, MySQL, Database Design
+* 🛡️ **Cybersecurity:** Network Security, Information Systems Audit
+* 📊 **Systems Analysis:** Object-Oriented Analysis and Design (OOAD)
+* ⛓️ **Emerging Tech:** Blockchain Technology, IoT, and AI
 
 ### 📑 Research & Project Abstracts
 * [English Abstract (PDF)](./ABSTRACT%20english.pdf) | [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
