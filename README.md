@@ -1,60 +1,94 @@
 <div align="center">
 
-# Hi, I'm Ezra Kiplangat 👋
+# Ezra Kiplangat
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="60%" align="left">
-      <h2>I'm a Web Developer</h2>
-      <p>I am a BSc. Information Technology student at <b>DeKUT</b> focused on creating clean, responsive, and interactive digital experiences. I love learning new technologies and improving my skills by building real-world projects.</p>
+      <h1>Hi, It's Ezra 👋</h1>
+      <h2>I'm a junior Web Developer</h2>
+      <p style="font-size: 18px; line-height: 1.6;">
+        I'm a junior web developer focused on creating clean, responsive, and interactive web experiences. 
+        I love learning new technologies and improving my skills by building real-world projects.
+      </p>
       <br>
-      <a href="https://ke.linkedin.com/in/ezrah-kirui-3585b7354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://wa.me/254701200070"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-      <a href="https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="https://ke.linkedin.com/in/ezrah-kirui-3585b7354"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://wa.me/254701200070"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+      <a href="https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     </td>
     <td width="40%" align="center">
-      <img src="banner.jpg" width="300" style="border-radius: 50%; border: 4px solid #00D2FF;" alt="Ezra Kiplangat">
+      <img src="banner.jpg" width="320" style="border-radius: 50%; border: 6px solid #00D2FF; box-shadow: 20px 20px 50px rgba(0,0,0,0.5);" />
     </td>
   </tr>
 </table>
 
----
-
-### 📂 Essential Documents
-**Curriculum Vitae (CV)**
-[![English](https://img.shields.io/badge/Resume-English-0077B5?style=flat-square)](./RESUME%20English.pdf) [![Swahili](https://img.shields.io/badge/Resume-Swahili-2E7D32?style=flat-square)](./RESUME%20Swahili.pdf) [![Kalenjin](https://img.shields.io/badge/Resume-Kalenjin-C62828?style=flat-square)](./RESUME%20kalenjin.pdf)
-
-**Biography & History**
-[![Autobiography](https://img.shields.io/badge/Full_Story-343434?style=flat-square)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf) [![Slides](https://img.shields.io/badge/Slides-FF8C00?style=flat-square)](./AUTOBIOGRAPHY_PRESENTATION.pdf) [![Markdown](https://img.shields.io/badge/Web_Summary-616161?style=flat-square)](./autobiography.md)
+<br><br>
 
 ---
 
-### 📑 Research & Projects
-**Academic Abstracts**
-* **English:** [Abstract PDF](./ABSTRACT%20english.pdf) • [Slides](./ABSTRACT%20PRESENTATION.pdf)
-* **Swahili:** [Abstract PDF](./ABSTRACT%20swahili.pdf)
-* **Kalenjin:** [Abstract PDF](./ABSTRACT%20kalenjin.pdf)
+<br>
 
-**Societal Analysis**
-[![EN](https://img.shields.io/badge/Challenges-EN-0077B5?style=flat-square)](./Societal%20Challenges%20english.pdf) [![SW](https://img.shields.io/badge/Challenges-SW-2E7D32?style=flat-square)](./Societal%20Challenges%20swahili.pdf) [![KL](https://img.shields.io/badge/Challenges-KL-C62828?style=flat-square)](./Societal%20Challenges%20kalenjin.pdf)
+## 📂 My Portfolio & Documents
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <h3>📄 Professional Resume</h3>
+      <p>My trilingual CV documents for professional opportunities.</p>
+      <a href="./RESUME%20English.pdf"><b>English CV</b></a> | <a href="./RESUME%20Swahili.pdf"><b>Swahili CV</b></a> | <a href="./RESUME%20kalenjin.pdf"><b>Kalenjin CV</b></a>
+    </td>
+    <td width="50%" align="left">
+      <h3>📖 Personal History</h3>
+      <p>The story of my journey and academic growth at DeKUT.</p>
+      <a href="./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf"><img src="https://img.shields.io/badge/View_Story-3f51b5?style=for-the-badge" /></a>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="50%" align="left">
+      <h3>🏛️ PowerPoint: Culture</h3>
+      <p>A presentation on African and Kalenjin culture's significance.</p>
+      <a href="./African%20Culture%20english.pdf"><img src="https://img.shields.io/badge/View_Presentation-4B0082?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" align="left">
+      <h3>🌍 Video: Modern Society</h3>
+      <p>A presentation on challenges facing modern society and solutions.</p>
+      <a href="./Societal%20Challenges%20english.pdf"><img src="https://img.shields.io/badge/Documentation-3f51b5?style=for-the-badge" /></a>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="50%" align="left">
+      <h3>📸 Photographic Essay</h3>
+      <p>A visual exploration of important issues in the community.</p>
+      <a href="./PHOTOGRAPHIC%20ESSAY.pdf"><img src="https://img.shields.io/badge/View_Essay-4B0082?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" align="left">
+      <h3>📑 Research Abstracts</h3>
+      <p>Summary of technical research and project findings.</p>
+      <a href="./ABSTRACT%20english.pdf"><img src="https://img.shields.io/badge/View_Abstract-3f51b5?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 ---
 
-### 🌍 Culture & Academics
-* 📸 [**Photographic Essay**](./PHOTOGRAPHIC%20ESSAY.pdf)
-* 🎓 **DeKUT IT Coursework:** Web Dev • Database • Cybersecurity • Blockchain • AI
-* 🏹 **Cultural Studies:** [Kalenjin](./African%20Culture%20kalenjin.pdf) • [African (EN)](./African%20Culture%20english.pdf) • [African (SW)](./African%20Culture%20swahili.pdf)
+## 🎓 Education & Tech Stack
+**Dedan Kimathi University of Technology (DeKUT)** *BSc. Information Technology* <br>
 
----
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
----
+<br><br>
 
 <p align="center">
-  <b>© 2026 Ezra Kiplangat | Built for DeKUT</b><br>
-  <a href="#-hi-im-ezra-kiplangat-">Back to Top</a>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>© 2026 Ezra Kiplangat</b>
 </p>
 
 </div>
