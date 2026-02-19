@@ -13,6 +13,9 @@ I am a **Web Developer** based at **Dedan Kimathi University of Technology (DeKU
 * 📑 **Research & Project Abstracts**
   * [English Abstract (PDF)](./ABSTRACT%20english.pdf) | [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
   * [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
+* 🤝 **Societal Analysis & Research**
+  * [Societal Challenges (English PDF)](./Societal%20Challenges%20english.pdf)
+  * [Societal Challenges (Swahili PDF)](./Societal%20Challenges%20swahili.pdf)
 * 🖼️ **Visual Portfolio**
   * [PHOTOGRAPHIC ESSAY (PDF)](./PHOTOGRAPHIC%20ESSAY.pdf)
 * 🌍 **Cultural Heritage & Studies**
