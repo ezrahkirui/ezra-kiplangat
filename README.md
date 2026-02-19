@@ -1,6 +1,6 @@
 # Hi, I'm Ezra Kiplangat 👋
 
-<img src="banner.jpg" width="100%" alt="Ezra Kiplangat Portfolio Banner">
+<img src="banner.jpg" width="400" alt="Ezra Kiplangat Portfolio Banner">
 
 ### 🚀 Professional Summary
 I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
@@ -22,11 +22,11 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 
 ### 📂 Essential Documents
 * 📄 **Curriculum Vitae (CV)**
-  * [English Version (PDF)](./RESUME%20English.pdf) | [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
+  * [English Version (PDF)](./RESUME%20English.pdf) | [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
 
 ### 🎓 Academic & Coursework
-**Institution:** Dedan Kimathi University of Technology (DeKUT)  
-**Major:** Bachelor of Science in Information Technology  
+**Institution:** Dedan Kimathi University of Technology (DeKUT)  
+**Major:** Bachelor of Science in Information Technology  
 
 **Key Coursework:**
 * 🌐 **Web Development:** HTML5, CSS3, JavaScript, PHP
@@ -60,12 +60,12 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+**Frontend** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+**Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
