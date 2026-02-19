@@ -22,7 +22,7 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 
 ### 📂 Essential Documents
 * 📄 **Curriculum Vitae (CV)**
-  * [English Version (PDF)](./RESUME%20English.pdf) | [Swahili Version (PDF)](./RESUME%20Swahili.pdf)
+  * [English (PDF)](./RESUME%20English.pdf) | [Swahili (PDF)](./RESUME%20Swahili.pdf) | [Kalenjin (PDF)](./RESUME%20kalenjin.pdf)
 
 ### 🎓 Academic & Coursework
 **Institution:** Dedan Kimathi University of Technology (DeKUT)  
@@ -36,12 +36,11 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 * ⛓️ **Emerging Tech:** Blockchain Technology, IoT, and AI
 
 ### 📑 Research & Project Abstracts
-* [English Abstract (PDF)](./ABSTRACT%20english.pdf) | [Swahili Abstract (PDF)](./ABSTRACT%20swahili.pdf)
-* [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
+* 📝 **Abstracts:** [English (PDF)](./ABSTRACT%20english.pdf) | [Swahili (PDF)](./ABSTRACT%20swahili.pdf) | [Kalenjin (PDF)](./ABSTRACT%20kalenjin.pdf)
+* 📊 [Abstract Presentation (Slides PDF)](./ABSTRACT%20PRESENTATION.pdf)
 
 ### 🤝 Societal Analysis & Research
-* [Societal Challenges (English PDF)](./Societal%20Challenges%20english.pdf)
-* [Societal Challenges (Swahili PDF)](./Societal%20Challenges%20swahili.pdf)
+* 🌍 **Societal Challenges:** [English (PDF)](./Societal%20Challenges%20english.pdf) | [Swahili (PDF)](./Societal%20Challenges%20swahili.pdf) | [Kalenjin (PDF)](./Societal%20Challenges%20kalenjin.pdf)
 
 ### 🖼️ Visual Portfolio
 * [PHOTOGRAPHIC ESSAY (PDF)](./PHOTOGRAPHIC%20ESSAY.pdf)
