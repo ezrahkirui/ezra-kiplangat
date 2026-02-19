@@ -1,0 +1,80 @@
+:root {
+    --bg-color: #121212;
+    --text-color: #eee;
+    --card-bg: #1e1e1e;
+    --accent: #00d1ff;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.hero {
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+.hero-img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+h1, h2 {
+    color: var(--accent);
+}
+
+.typing-text {
+    color: #ffcc00;
+    font-weight: bold;
+}
+
+button#darkModeToggle {
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.projects {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.project-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.card {
+    background-color: var(--card-bg);
+    padding: 1rem;
+    border-radius: 12px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--card-bg);
+    color: var(--accent);
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--card-bg);
+}
