@@ -53,6 +53,13 @@ section {
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.5);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    opacity: 0;
+    transform: translateY(40px);
+}
+
+section.visible {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 section:hover {
@@ -78,6 +85,43 @@ section:hover {
     transform: scale(1.05);
 }
 
+/* ===== GITHUB STATS & TECH STACK ===== */
+section#tech-stack img,
+#github-stats img {
+    margin: 0.3rem 0.2rem;
+    vertical-align: middle;
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section#tech-stack img:hover,
+#github-stats img:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 209, 255, 0.5);
+}
+
+#github-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+#github-stats img {
+    max-width: 300px;
+}
+
+/* ===== LISTS ===== */
+ul {
+    padding-left: 1.5rem;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}
+
 /* ===== FOOTER ===== */
 footer {
     text-align: center;
@@ -94,25 +138,26 @@ footer a:hover {
     color: #ffcc00;
 }
 
-/* ===== GITHUB STATS ===== */
-#github-stats {
-    text-align: center;
-    padding: 2rem 1rem;
+/* ===== BACK TO TOP BUTTON ===== */
+#backToTop {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background-color: #00d1ff;
+    color: #121212;
+    border: none;
+    padding: 0.8rem 1rem;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    z-index: 1000;
 }
 
-#github-stats img {
-    margin: 0.5rem;
-    max-width: 100%;
-    border-radius: 12px;
-}
-
-/* ===== LISTS ===== */
-ul {
-    padding-left: 1.5rem;
-}
-
-ul li {
-    margin-bottom: 0.5rem;
+#backToTop:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
 }
 
 /* ===== RESPONSIVE ===== */
@@ -129,5 +174,11 @@ ul li {
     section {
         margin: 1rem;
         padding: 1.5rem;
+    }
+    #github-stats img {
+        max-width: 100%;
+    }
+    section#tech-stack img {
+        max-width: 90%;
     }
 }
