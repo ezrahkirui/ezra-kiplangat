@@ -5,21 +5,41 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ezra Kiplangat | Web Developer</title>
 
+<!-- Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
+<!-- Styles -->
 <style>
+:root {
+    --bg-light: #f4f6f9;
+    --text-light: #1a1a1a;
+    --bg-dark: #121212;
+    --text-dark: #e0e0e0;
+    --primary-color: #007bff;
+    --card-bg-light: #ffffff;
+    --card-bg-dark: #1e1e1e;
+    --card-shadow-light: rgba(0,0,0,0.05);
+    --card-shadow-dark: rgba(0,0,0,0.3);
+}
+
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
-    scroll-behavior:smooth;
+    scroll-behavior: smooth;
     font-family: 'Inter', sans-serif;
 }
 
 body{
-    background:#f4f6f9;
-    color:#1a1a1a;
+    background: var(--bg-light);
+    color: var(--text-light);
     line-height:1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode body{
+    background: var(--bg-dark);
+    color: var(--text-dark);
 }
 
 .container{
@@ -36,6 +56,12 @@ nav{
     padding:20px 0;
     box-shadow:0 2px 15px rgba(0,0,0,0.05);
     z-index:1000;
+    transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode nav{
+    background:#1e1e1e;
+    box-shadow:0 2px 15px rgba(0,0,0,0.4);
 }
 
 nav .nav-container{
@@ -49,14 +75,18 @@ nav .nav-container{
 
 nav a{
     text-decoration:none;
-    color:#333;
+    color: #333;
     margin-left:30px;
     font-weight:500;
     transition:0.3s;
 }
 
+.dark-mode nav a{
+    color:#e0e0e0;
+}
+
 nav a:hover{
-    color:#000;
+    color: var(--primary-color);
 }
 
 .hero{
@@ -67,6 +97,11 @@ nav a:hover{
     text-align:center;
     background:#ffffff;
     padding-top:80px;
+    transition: background 0.3s;
+}
+
+.dark-mode .hero{
+    background:#1a1a1a;
 }
 
 .hero img{
@@ -74,6 +109,11 @@ nav a:hover{
     border-radius:50%;
     margin-bottom:30px;
     box-shadow:0 10px 30px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s;
+}
+
+.dark-mode .hero img{
+    box-shadow:0 10px 30px rgba(255,255,255,0.2);
 }
 
 .hero h1{
@@ -87,6 +127,10 @@ nav a:hover{
     max-width:600px;
     margin:auto;
     color:#555;
+}
+
+.dark-mode .hero p{
+    color:#ccc;
 }
 
 .section-title{
@@ -107,7 +151,12 @@ nav a:hover{
     padding:35px;
     border-radius:12px;
     box-shadow:0 10px 25px rgba(0,0,0,0.05);
-    transition:0.3s ease;
+    transition:0.3s ease, background 0.3s, box-shadow 0.3s;
+}
+
+.dark-mode .card{
+    background: var(--card-bg-dark);
+    box-shadow:0 10px 25px var(--card-shadow-dark);
 }
 
 .card:hover{
@@ -128,6 +177,12 @@ nav a:hover{
     margin:6px;
     font-size:14px;
     font-weight:500;
+    transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode .skills span{
+    background:#2a2a2a;
+    color:#ccc;
 }
 
 .github-stats{
@@ -152,8 +207,13 @@ nav a:hover{
     font-size:16px;
 }
 
+.dark-mode .contact a{
+    color:#e0e0e0;
+}
+
 .contact a:hover{
     text-decoration:underline;
+    color: var(--primary-color);
 }
 
 footer{
@@ -163,12 +223,40 @@ footer{
     margin-top:60px;
     font-size:14px;
     color:#777;
+    transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode footer{
+    background:#1e1e1e;
+    color:#aaa;
+}
+
+/* Dark Mode Toggle Button */
+#darkToggle{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    background: var(--primary-color);
+    color:#fff;
+    border:none;
+    padding:12px 20px;
+    border-radius:30px;
+    font-weight:600;
+    cursor:pointer;
+    z-index:1001;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+    transition: background 0.3s;
+}
+
+#darkToggle:hover{
+    background:#0056b3;
 }
 </style>
 </head>
 
 <body>
 
+<!-- Navigation -->
 <nav>
     <div class="nav-container">
         <strong>Ezra Kiplangat</strong>
@@ -182,15 +270,17 @@ footer{
     </div>
 </nav>
 
+<!-- Hero Section -->
 <section class="hero">
     <div>
         <img src="baner.jpg" alt="Ezra Kiplangat">
         <h1>Ezra Kiplangat</h1>
         <p>Web Developer | BSc. Information Technology Student  
-        Building clean, scalable and impactful digital solutions.</p>
+        Building clean, scalable, and impactful digital solutions.</p>
     </div>
 </section>
 
+<!-- About Section -->
 <section id="about" class="container">
     <h2 class="section-title">Professional Profile</h2>
     <p style="text-align:center; max-width:800px; margin:auto;">
@@ -200,6 +290,7 @@ footer{
     </p>
 </section>
 
+<!-- Projects Section -->
 <section id="projects" class="container">
     <h2 class="section-title">Featured Projects</h2>
     <div class="grid">
@@ -222,6 +313,7 @@ footer{
     </div>
 </section>
 
+<!-- Skills Section -->
 <section id="skills" class="container">
     <h2 class="section-title">Technical Expertise</h2>
     <div class="skills" style="text-align:center;">
@@ -240,14 +332,14 @@ footer{
     </div>
 </section>
 
+<!-- GitHub Stats Section -->
 <section id="github" class="container github-stats">
     <h2 class="section-title">GitHub Performance</h2>
-
     <img src="https://github-readme-stats.vercel.app/api?username=ezrahkirui&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezrahkirui&theme=default&hide_border=true" alt="GitHub Streak">
 </section>
 
+<!-- Contact Section -->
 <section id="contact" class="container contact">
     <h2 class="section-title">Let's Connect</h2>
     <a href="https://ke.linkedin.com/in/ezrah-kirui-3585b7354">LinkedIn</a>
@@ -255,9 +347,21 @@ footer{
     <a href="mailto:ezrahkirui02@gmail.com">Email</a>
 </section>
 
+<!-- Footer -->
 <footer>
     © 2024 Ezra Kiplangat | Built with precision and professionalism.
 </footer>
+
+<!-- Dark Mode Toggle Button -->
+<button id="darkToggle">Toggle Dark Mode</button>
+
+<!-- Scripts -->
+<script>
+const toggle = document.getElementById('darkToggle');
+toggle.addEventListener('click', () => {
+    document.body.classList.toggle('dark-mode');
+});
+</script>
 
 </body>
 </html>
