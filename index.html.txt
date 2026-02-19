@@ -17,7 +17,7 @@
 }
 
 body{
-    background:#f8f9fa;
+    background:#f4f6f9;
     color:#1a1a1a;
     line-height:1.6;
 }
@@ -26,7 +26,7 @@ body{
     width:90%;
     max-width:1200px;
     margin:auto;
-    padding:80px 0;
+    padding:100px 0;
 }
 
 nav{
@@ -34,7 +34,7 @@ nav{
     width:100%;
     background:#ffffff;
     padding:20px 0;
-    box-shadow:0 2px 10px rgba(0,0,0,0.05);
+    box-shadow:0 2px 15px rgba(0,0,0,0.05);
     z-index:1000;
 }
 
@@ -52,6 +52,11 @@ nav a{
     color:#333;
     margin-left:30px;
     font-weight:500;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:#000;
 }
 
 .hero{
@@ -61,16 +66,18 @@ nav a{
     justify-content:center;
     text-align:center;
     background:#ffffff;
+    padding-top:80px;
 }
 
 .hero img{
     width:180px;
     border-radius:50%;
     margin-bottom:30px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.1);
 }
 
 .hero h1{
-    font-size:48px;
+    font-size:50px;
     font-weight:700;
     margin-bottom:20px;
 }
@@ -83,8 +90,8 @@ nav a{
 }
 
 .section-title{
-    font-size:32px;
-    margin-bottom:40px;
+    font-size:34px;
+    margin-bottom:50px;
     font-weight:700;
     text-align:center;
 }
@@ -97,28 +104,30 @@ nav a{
 
 .card{
     background:#ffffff;
-    padding:30px;
-    border-radius:10px;
+    padding:35px;
+    border-radius:12px;
     box-shadow:0 10px 25px rgba(0,0,0,0.05);
     transition:0.3s ease;
 }
 
 .card:hover{
-    transform:translateY(-5px);
-    box-shadow:0 15px 35px rgba(0,0,0,0.08);
+    transform:translateY(-8px);
+    box-shadow:0 15px 40px rgba(0,0,0,0.08);
 }
 
 .card h3{
     margin-bottom:15px;
+    font-size:20px;
 }
 
 .skills span{
     display:inline-block;
     background:#e9ecef;
-    padding:8px 15px;
-    border-radius:20px;
-    margin:5px;
+    padding:10px 18px;
+    border-radius:25px;
+    margin:6px;
     font-size:14px;
+    font-weight:500;
 }
 
 .github-stats{
@@ -128,7 +137,7 @@ nav a{
 .github-stats img{
     width:100%;
     max-width:500px;
-    margin:20px 0;
+    margin:25px 0;
 }
 
 .contact{
@@ -138,13 +147,18 @@ nav a{
 .contact a{
     text-decoration:none;
     color:#000;
-    margin:0 15px;
+    margin:0 20px;
     font-weight:600;
+    font-size:16px;
+}
+
+.contact a:hover{
+    text-decoration:underline;
 }
 
 footer{
     text-align:center;
-    padding:40px 0;
+    padding:50px 0;
     background:#ffffff;
     margin-top:60px;
     font-size:14px;
@@ -181,8 +195,8 @@ footer{
     <h2 class="section-title">Professional Profile</h2>
     <p style="text-align:center; max-width:800px; margin:auto;">
         I am a Web Developer and Information Technology student at Dedan Kimathi University of Technology (DeKUT).
-        My focus is on developing structured, user-centered digital experiences with performance,
-        scalability, and clean architecture in mind.
+        I focus on structured system architecture, user-centered design, and scalable web applications.
+        My work blends technical precision with clean executive presentation.
     </p>
 </section>
 
@@ -192,17 +206,17 @@ footer{
 
         <div class="card">
             <h3>Baseball Analytics System</h3>
-            <p>Full-stack Flask application with authentication, CSV upload, role-based access control, and predictive modeling.</p>
+            <p>Full-stack Flask system with authentication, CSV upload, RBAC admin panel, and predictive modeling integration.</p>
         </div>
 
         <div class="card">
-            <h3>Blockchain Research Study</h3>
-            <p>Academic research on blockchain integration in supply chains, exploring transparency and decentralization impact.</p>
+            <h3>Blockchain Supply Chain Research</h3>
+            <p>Analytical research exploring blockchain implementation in African supply chain systems for transparency and trust.</p>
         </div>
 
         <div class="card">
-            <h3>Community-Centric Design Research</h3>
-            <p>Exploration of Ubuntu philosophy and gender awareness in African technology design frameworks.</p>
+            <h3>Community-Centric Design Study</h3>
+            <p>Research on Ubuntu philosophy integration and gender-aware technology frameworks in African innovation systems.</p>
         </div>
 
     </div>
@@ -229,15 +243,15 @@ footer{
 <section id="github" class="container github-stats">
     <h2 class="section-title">GitHub Performance</h2>
 
-    <!-- Replace YOUR_USERNAME with your actual GitHub username -->
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=ezrahkirui&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezrahkirui&theme=default&hide_border=true" alt="GitHub Streak">
 </section>
 
 <section id="contact" class="container contact">
     <h2 class="section-title">Let's Connect</h2>
-    <a href="https://ke.linkedin.com/">LinkedIn</a>
-    <a href="https://github.com/">GitHub</a>
+    <a href="https://ke.linkedin.com/in/ezrah-kirui-3585b7354">LinkedIn</a>
+    <a href="https://github.com/ezrahkirui">GitHub</a>
     <a href="mailto:ezrahkirui02@gmail.com">Email</a>
 </section>
 
