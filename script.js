@@ -32,14 +32,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
 /* ===== FADE-IN SECTIONS ON SCROLL ===== */
 const sections = document.querySelectorAll("section");
+sections.forEach(section => section.classList.add("fade-in"));
 
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
         if (entry.isIntersecting) {
-            entry.target.classList.add("visible");
+            entry.target.classList.remove("fade-in");
         }
     });
-}, { threshold: 0.2 });
+}, { threshold: 0.1 });
 
 sections.forEach(section => observer.observe(section));
 
