@@ -3,7 +3,7 @@
 <img src="banner.jpg" width="400" alt="Ezra Kiplangat Portfolio Banner">
 
 ### 🚀 Professional Summary
-I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**. I currently maintain a **GPA of [Insert Your GPA, e.g., 3.6/4.0]**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
+I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
 
 ---
 
