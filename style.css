@@ -44,6 +44,28 @@ h1, h2 {
     margin-bottom: 1rem;
 }
 
+h2 {
+    position: relative;
+    display: inline-block;
+    cursor: default;
+}
+
+h2::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #00d1ff, #ffcc00);
+    border-radius: 2px;
+    transition: width 0.4s ease;
+}
+
+h2:hover::after {
+    width: 100%;
+}
+
 /* ===== SECTIONS ===== */
 section {
     padding: 2rem 1rem;
@@ -52,7 +74,7 @@ section {
     background-color: #1b1b1b;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.8s ease, transform 0.8s ease;
     opacity: 0;
     transform: translateY(40px);
 }
@@ -77,12 +99,30 @@ section:hover {
     border-radius: 8px;
     font-weight: 600;
     transition: all 0.3s ease;
+    position: relative;
+}
+
+.btn::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #00d1ff, #ffcc00);
+    border-radius: 2px;
+    transition: width 0.4s ease;
 }
 
 .btn:hover {
     background-color: #00d1ff;
     color: #121212;
     transform: scale(1.05);
+}
+
+.btn:hover::after {
+    width: 80%;
 }
 
 /* ===== GITHUB STATS & TECH STACK ===== */
