@@ -1,7 +1,7 @@
 # Hi, I'm Ezra Kiplangat 👋
 
 <p align="center">
-  <img src="banner.jpg" width="250" style="border-radius: 50%; border: 4px solid #3498db;" alt="Ezra Kiplangat Portfolio Banner">
+  <img src="baner.jpg" width="250" style="border-radius: 50%; border: 3px solid #3498db;" alt="Ezra Kiplangat Portfolio Banner">
 </p>
 
 ### 🚀 Professional Summary
@@ -10,58 +10,49 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 ---
 
 ### 📍 Table of Contents
-* [🗣️ Languages](#️-languages)
-* [📄 Curriculum Vitae (CV)](#-curriculum-vitae-cv)
-* [📖 Personal History & Biography](#-personal-history--biography)
-* [📑 Research & Project Abstracts](#-research--project-abstracts)
-* [🤝 Societal Analysis & Research](#-societal-analysis--research)
-* [🖼️ Visual Portfolio](#-visual-portfolio)
-* [🌍 Cultural Heritage & Studies](#-cultural-heritage--studies)
-* [🎓 Academic & Coursework](#-academic--coursework)
-* [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
-* [📬 Let's Connect](#-lets-connect)
+* [Professional Summary](#-professional-summary)
+* [Languages](#-languages)
+* [Curriculum Vitae (CV)](#-curriculum-vitae-cv)
+* [Personal History & Biography](#-personal-history--biography)
+* [Research & Project Abstracts](#-research--project-abstracts)
+* [Societal Analysis & Research](#-societal-analysis--research)
+* [Visual Portfolio](#-visual-portfolio)
+* [Cultural Heritage & Studies](#-cultural-heritage--studies)
+* [Academic & Coursework](#-academic--coursework)
+* [Tech Stack & Tools](#-tech-stack--tools)
+* [Contact](#-lets-connect)
 
 ---
 
 ### 🗣️ Languages
-| Language | Proficiency | Status |
-| :--- | :--- | :--- |
-| **English** | Professional | ![English](https://img.shields.io/badge/-Fluent-blue) |
-| **Swahili** | Native/Fluent | ![Swahili](https://img.shields.io/badge/-Native-green) |
-| **Kalenjin** | Native | ![Kalenjin](https://img.shields.io/badge/-Native-red) |
+* **English** — Professional Proficiency
+* **Swahili** — Native / Fluent
+* **Kalenjin** — Native
 
 ---
 
 ### 📄 Curriculum Vitae (CV)
-*Click the buttons below to view my professional resume in your preferred language:*
-
-[![English CV](https://img.shields.io/badge/Resume-English_Version-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20English.pdf)
-[![Swahili CV](https://img.shields.io/badge/Resume-Swahili_Version-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20Swahili.pdf)
-[![Kalenjin CV](https://img.shields.io/badge/Resume-Kalenjin_Version-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20kalenjin.pdf)
+[![English CV](https://img.shields.io/badge/Resume-English-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20English.pdf) 
+[![Swahili CV](https://img.shields.io/badge/Resume-Swahili-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20Swahili.pdf) 
+[![Kalenjin CV](https://img.shields.io/badge/Resume-Kalenjin-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./RESUME%20kalenjin.pdf)
 
 ---
 
 ### 📖 Personal History & Biography
-| Resource | Action |
-| :--- | :--- |
-| **Full Autobiography** (Detailed PDF) | [📖 Read Document](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf) |
-| **Autobiography Presentation** (Slides) | [📊 View Slides](./AUTOBIOGRAPHY_PRESENTATION.pdf) |
-| **Online Summary** (Markdown) | [🌐 Read Online](./autobiography.md) |
+* **Full Autobiography** [<img src="https://img.shields.io/badge/Read_PDF-blue?style=flat-square&logo=read-the-docs&logoColor=white" />](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
+* **Presentation Slides** [<img src="https://img.shields.io/badge/View_Slides-orange?style=flat-square&logo=googleslides&logoColor=white" />](./AUTOBIOGRAPHY_PRESENTATION.pdf)
+* **Online Summary** [<img src="https://img.shields.io/badge/GitHub_Page-lightgrey?style=flat-square&logo=github&logoColor=white" />](./autobiography.md)
 
 ---
 
 ### 📑 Research & Project Abstracts
-| Language | Abstract Document | Slide Presentation |
-| :--- | :---: | :---: |
-| **English** | [📄 Open PDF](./ABSTRACT%20english.pdf) | [📊 View Slides](./ABSTRACT%20PRESENTATION.pdf) |
-| **Swahili** | [📄 Open PDF](./ABSTRACT%20swahili.pdf) | _No Slides Available_ |
-| **Kalenjin** | [📄 Open PDF](./ABSTRACT%20kalenjin.pdf) | _No Slides Available_ |
+* **English Abstract** [<img src="https://img.shields.io/badge/Abstract_EN-blue?style=flat-square" />](./ABSTRACT%20english.pdf) [<img src="https://img.shields.io/badge/Slides-orange?style=flat-square" />](./ABSTRACT%20PRESENTATION.pdf)
+* **Swahili Abstract** [<img src="https://img.shields.io/badge/Abstract_SW-green?style=flat-square" />](./ABSTRACT%20swahili.pdf)
+* **Kalenjin Abstract** [<img src="https://img.shields.io/badge/Abstract_KL-red?style=flat-square" />](./ABSTRACT%20kalenjin.pdf)
 
 ---
 
 ### 🤝 Societal Analysis & Research
-*Detailed research on modern societal challenges:*
-
 [![English](https://img.shields.io/badge/Societal_Challenges-English-blue?style=for-the-badge)](./Societal%20Challenges%20english.pdf)
 [![Swahili](https://img.shields.io/badge/Societal_Challenges-Swahili-green?style=for-the-badge)](./Societal%20Challenges%20swahili.pdf)
 [![Kalenjin](https://img.shields.io/badge/Societal_Challenges-Kalenjin-red?style=for-the-badge)](./Societal%20Challenges%20kalenjin.pdf)
@@ -74,8 +65,9 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 ---
 
 ### 🌍 Cultural Heritage & Studies
-| [🏛️ Kalenjin Culture](./African%20Culture%20kalenjin.pdf) | [🌍 African Culture (EN)](./African%20Culture%20english.pdf) | [🌍 African Culture (SW)](./African%20Culture%20swahili.pdf) |
-| :---: | :---: | :---: |
+* [🏛️ Kalenjin Culture (Kalenjin PDF)](./African%20Culture%20kalenjin.pdf)
+* [🌍 African Culture (English PDF)](./African%20Culture%20english.pdf)
+* [🌍 African Culture (Swahili PDF)](./African%20Culture%20swahili.pdf)
 
 ---
 
@@ -83,24 +75,18 @@ I am a **Web Developer** and **BSc. Information Technology** student at **Dedan 
 **Institution:** Dedan Kimathi University of Technology (DeKUT)  
 **Major:** Bachelor of Science in Information Technology  
 
-- 🌐 **Web Development:** HTML5, CSS3, JavaScript, PHP
-- 💾 **Database Management:** SQL, MySQL, Database Design
-- 🛡️ **Cybersecurity:** Network Security, Information Systems Audit
-- 📊 **Systems Analysis:** Object-Oriented Analysis and Design (OOAD)
-- ⛓️ **Emerging Tech:** Blockchain Technology, IoT, and AI
+* 🌐 **Web Development:** HTML5, CSS3, JavaScript, PHP
+* 💾 **Database Management:** SQL, MySQL, Database Design
+* 🛡️ **Cybersecurity:** Network Security, Information Systems Audit
+* 📊 **Systems Analysis:** Object-Oriented Analysis and Design (OOAD)
+* ⛓️ **Emerging Tech:** Blockchain Technology, IoT, and AI
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
