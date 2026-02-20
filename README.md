@@ -1,139 +1,108 @@
-# Ezra Kiplangat Portfolio
+<div align="center">
 
-[🌐 View Live Portfolio](https://your-live-site-link)  
+# Ezra Kiplangat
 
-Hi, I'm **Ezra Kiplangat** 👋  
-*Web Developer | BSc. Information Technology Student | Problem Solver*  
+<div align="left">
+<img src="banner.jpg" width="320" align="right" style="border-radius: 50%; border: 6px solid #00D2FF; margin-left: 40px; margin-bottom: 30px;" alt="Ezra Kiplangat">
 
----
+<br>
 
-## 👨‍💻 Hero Section
+# Hi, It's Ezra 👋
+## I'm a junior Web Developer
 
-![Hero Section](images/hero-section.png)  
-*Includes my photo and typing animation (simulated in screenshot)*
+<p style="font-size: 125%; line-height: 1.8; max-width: 650px;">
+I am a <b>BSc. Information Technology</b> student at <b>DeKUT</b>, focused on creating clean, responsive, and interactive web experiences. I love learning new technologies and improving my skills by building real-world projects.
+</p>
 
----
+<br>
 
-## 🚀 Professional Summary
+<a href="https://ke.linkedin.com/in/ezrah-kirui-3585b7354"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/254701200070"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=61571491926709"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:ezrahkirui02@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-![Professional Summary](images/professional-summary.png)  
+</div>
 
-I focus on **developing clean, functional, and user-centered digital experiences**.
-
----
-
-## 🗣️ Languages
-
-![Languages](images/languages.png)
-
-- **English** (Professional)  
-- **Swahili** (Native/Fluent)  
-- **Kalenjin** (Native)
+<br clear="right" />
+<br><br><br>
 
 ---
+
+<br><br>
+
+<div align="left">
 
 ## 📄 Curriculum Vitae (CV)
+*Professional resumes available in three languages.*
+<br><br>
+[**English Version**](./RESUME%20English.pdf) &nbsp; | &nbsp; [**Swahili Version**](./RESUME%20Swahili.pdf) &nbsp; | &nbsp; [**Kalenjin Version**](./RESUME%20kalenjin.pdf)
 
-![CV Section](images/cv-section.png)
+<br><br><hr><br><br>
 
-- [English Version](RESUME%20English.pdf)  
-- [Swahili Version](RESUME%20Swahili.pdf)  
-- [Kalenjin Version](RESUME%20kalenjin.pdf)
+## 🌍 Cultural Heritage & Video
+*Celebrating African and Kalenjin significance.*
+<br><br>
 
----
+### 📺 Featured Film: African Culture
+[![African Culture Video](https://img.shields.io/badge/PLAY_VIDEO-20_MINUTES-red?style=for-the-badge&logo=youtube&logoColor=white)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+
+<br>
+
+* 🏹 [**Kalenjin Culture (Kalenjin PDF)**](./African%20Culture%20kalenjin.pdf)
+* 🌍 [**African Culture (English PDF)**](./African%20Culture%20english.pdf)
+* 🐘 [**African Culture (Swahili PDF)**](./African%20Culture%20swahili.pdf)
+
+<br><br><hr><br><br>
 
 ## 📖 Personal History & Biography
+*The complete story of my journey and evolution.*
+<br><br>
+* 📔 **Full Autobiography:** [Download PDF Document](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)
+* 🎞️ **Presentation Slides:** [View Visual Journey](./AUTOBIOGRAPHY_PRESENTATION.pdf)
+* 🌐 **Online Summary:** [**Read Online Summary**](./autobiography.md)  
+*(Note: Ensure your file is named exactly 'autobiography.md' in your main folder)*
 
-![Biography Section](images/biography-section.png)
-
-- [Full Autobiography](AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)  
-- [Autobiography Presentation](AUTOBIOGRAPHY_PRESENTATION.pdf)  
-- [Read Summary Online](autobiography.md)
-
----
+<br><br><hr><br><br>
 
 ## 📑 Research & Project Abstracts
+*Technical documentation and project summaries.*
+<br><br>
+**English:** [Abstract PDF](./ABSTRACT%20english.pdf) | [Presentation](./ABSTRACT%20PRESENTATION.pdf)  
+**National:** [Swahili Abstract](./ABSTRACT%20swahili.pdf) | [Kalenjin Abstract](./ABSTRACT%20kalenjin.pdf)
 
-![Research Section](images/research-section.png)
+<br><br><hr><br><br>
 
-- [English Abstract](ABSTRACT%20english.pdf)  
-- [Swahili Abstract](ABSTRACT%20swahili.pdf)  
-- [Kalenjin Abstract](ABSTRACT%20kalenjin.pdf)  
-- [Abstract Presentation](ABSTRACT%20PRESENTATION.pdf)
+## 🤝 Societal Analysis
+*Research on contemporary challenges and proposed solutions.*
+<br><br>
+[![English](https://img.shields.io/badge/Challenges-English-0077B5?style=for-the-badge)](./Societal%20Challenges%20english.pdf) 
+[![Swahili](https://img.shields.io/badge/Challenges-Swahili-2E7D32?style=for-the-badge)](./Societal%20Challenges%20swahili.pdf) 
+[![Kalenjin](https://img.shields.io/badge/Challenges-Kalenjin-C62828?style=for-the-badge)](./Societal%20Challenges%20kalenjin.pdf)
 
----
-
-## 🤝 Societal Analysis & Research
-
-![Societal Analysis Section](images/societal-analysis.png)
-
-- [English](Societal%20Challenges%20english.pdf)  
-- [Swahili](Societal%20Challenges%20swahili.pdf)  
-- [Kalenjin](Societal%20Challenges%20kalenjin.pdf)
-
----
+<br><br><hr><br><br>
 
 ## 🖼️ Visual Portfolio
+*A photographic essay capturing critical community issues.*
+<br><br>
+[![View Essay](https://img.shields.io/badge/OPEN_PHOTOGRAPHIC_ESSAY-orange?style=for-the-badge&logo=googlephotos&logoColor=white)](./PHOTOGRAPHIC%20ESSAY.pdf)
 
-![Visual Portfolio Section](images/visual-portfolio.png)
+<br><br><hr><br><br>
 
-- [Photographic Essay](PHOTOGRAPHIC%20ESSAY.pdf)
+## 🎓 Academic & Tech Stack
+**BSc. Information Technology | DeKUT**
+<br>
+*Web Development • Database Management • Cybersecurity • Systems Analysis • Blockchain • AI*
+<br><br>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
----
+</div>
 
-## 🌍 Cultural Heritage & Studies
+<br><br><br>
 
-![Cultural Heritage Section](images/cultural-heritage.png)
+<p align="center">
+  <b>© 2026 Ezra Kiplangat</b><br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
 
-- [Kalenjin Culture](African%20Culture%20kalenjin.pdf)  
-- [African Culture (English)](African%20Culture%20english.pdf)  
-- [African Culture (Swahili)](African%20Culture%20swahili.pdf)
-
----
-
-## 🎓 Academic & Coursework
-
-![Academics Section](images/academics.png)
-
-**Institution:** Dedan Kimathi University of Technology (DeKUT)  
-**Major:** Bachelor of Science in Information Technology  
-
-**Key Coursework:**  
-- 🌐 Web Development: HTML5, CSS3, JavaScript, PHP  
-- 💾 Database Management: SQL, MySQL, Database Design  
-- 🛡️ Cybersecurity: Network Security, Information Systems Audit  
-- 📊 Systems Analysis: OOAD  
-- ⛓️ Emerging Tech: Blockchain, IoT, AI
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Tech Stack Section](images/tech-stack.png)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📬 Let's Connect!
-
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://ke.linkedin.com/in/ezrah-kirui-3585b7354)  
-[![WhatsApp](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg)](https://wa.me/254701200070)  
-[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j)  
-[![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://www.facebook.com/profile.php?id=61571491926709)  
-[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)](https://github.com/ezrahkirui)  
-[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:ezrahkirui02@gmail.com)
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-
-Built with ❤️ by Ezra Kiplangat | © 2024
+</div>
