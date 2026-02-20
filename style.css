@@ -306,3 +306,16 @@ footer a:hover {
         height: 240px;
     }
 }
+
+/* ===== VIDEO BUTTON STYLE ===== */
+.video-btn {
+    background: linear-gradient(90deg, #ff0000, #cc0000);
+    color: white;
+    font-weight: bold;
+}
+
+.video-btn:hover {
+    background: linear-gradient(90deg, #cc0000, #990000);
+    color: white;
+    transform: scale(1.08);
+}
