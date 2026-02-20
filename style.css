@@ -282,3 +282,27 @@ footer a:hover {
     transform: translateX(-50%) translateY(-5px);
 }
 
+/* ===== SINGLE VIDEO EMBEDS ===== */
+.video-container-single {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.video-container-single iframe {
+    width: 100%;
+    max-width: 700px;
+    height: 400px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+    transition: transform 0.3s ease;
+}
+
+.video-container-single iframe:hover {
+    transform: scale(1.02);
+}
+
+@media (max-width: 768px) {
+    .video-container-single iframe {
+        height: 240px;
+    }
+}
