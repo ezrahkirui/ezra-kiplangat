@@ -255,4 +255,30 @@ footer a:hover {
     }
 }
 
+/* ===== CUSTOM TOOLTIP ===== */
+.social-link {
+    position: relative;
+}
+
+.social-link::after {
+    content: attr(title);  /* show the title attribute */
+    position: absolute;
+    bottom: 120%; /* above the icon */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #00d1ff;
+    color: #121212;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.social-link:hover::after {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-5px);
+}
 
