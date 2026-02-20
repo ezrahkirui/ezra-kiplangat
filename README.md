@@ -1,116 +1,100 @@
-# Hi, I'm Ezra Kiplangat 👋
+# Ezra Kiplangat Portfolio
 
-<p align="center">
-  <img src="baner.jpg" width="200" style="border-radius: 50%;" alt="Ezra Kiplangat Portfolio Banner">
-</p>
-
-### 🚀 Professional Summary
-I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**, focusing on clean, functional, and user-centered digital experiences.  
-
-> For the **full interactive portfolio with dark mode, animated GitHub stats, and project showcase**, visit:  
-> [🌐 Live Portfolio](https://ezrahkirui.github.io/ezra-kiplangat/)
+Hi, I'm **Ezra Kiplangat** 👋  
+*Web Developer | BSc. Information Technology Student | Problem Solver*  
 
 ---
 
-### 📍 Table of Contents
-* [Professional Summary](#-professional-summary)
-* [Languages](#-languages)
-* [Curriculum Vitae (CV)](#-curriculum-vitae-cv)
-* [Personal History & Biography](#-personal-history--biography)
-* [Research & Project Abstracts](#-research--project-abstracts)
-* [Societal Analysis & Research](#-societal-analysis--research)
-* [Visual Portfolio](#-visual-portfolio)
-* [Cultural Heritage & Studies](#-cultural-heritage--studies)
-* [Academic & Coursework](#-academic--coursework)
-* [Tech Stack & Tools](#-tech-stack--tools)
-* [Contact](#-lets-connect)
+## 🚀 Professional Summary
+I am a **Web Developer** and **BSc. Information Technology** student at **Dedan Kimathi University of Technology (DeKUT)**, focusing on developing clean, functional, and user-centered digital experiences. This space serves as a live look at my journey, my skills, and the projects I’ve brought to life.
 
 ---
 
-### 🗣️ Languages
-**English** (Professional) | **Swahili** (Native/Fluent) | **Kalenjin** (Native)
+## 🗣️ Languages
+- **English** (Professional)  
+- **Swahili** (Native/Fluent)  
+- **Kalenjin** (Native)
 
 ---
 
-### 📄 Curriculum Vitae (CV)
-[![English CV](https://img.shields.io/badge/English-CV-dark?style=for-the-badge)](./RESUME%20English.pdf) 
-[![Swahili CV](https://img.shields.io/badge/Swahili-CV-dark?style=for-the-badge)](./RESUME%20Swahili.pdf) 
-[![Kalenjin CV](https://img.shields.io/badge/Kalenjin-CV-dark?style=for-the-badge)](./RESUME%20kalenjin.pdf)
+## 📄 Curriculum Vitae (CV)
+- [English Version](RESUME%20English.pdf)  
+- [Swahili Version](RESUME%20Swahili.pdf)  
+- [Kalenjin Version](RESUME%20kalenjin.pdf)
 
 ---
 
-### 📖 Personal History & Biography
-[![Full Autobiography](https://img.shields.io/badge/Full-Autobiography-dark?style=for-the-badge)](./AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)  
-[![Autobiography Presentation](https://img.shields.io/badge/Autobiography-Presentation-dark?style=for-the-badge)](./AUTOBIOGRAPHY_PRESENTATION.pdf)  
-[![Summary Online](https://img.shields.io/badge/Read-Summary-dark?style=for-the-badge)](./autobiography.md)
+## 📖 Personal History & Biography
+- [Full Autobiography](AUTOBIOGRAPHY%20OF%20EZRA%20KIPLANGAT.pdf)  
+- [Autobiography Presentation](AUTOBIOGRAPHY_PRESENTATION.pdf)  
+- [Read Summary Online](autobiography.md)
 
 ---
 
-### 📑 Research & Project Abstracts
-[![English Abstract](https://img.shields.io/badge/Abstract-English-dark?style=for-the-badge)](./ABSTRACT%20english.pdf)  
-[![Swahili Abstract](https://img.shields.io/badge/Abstract-Swahili-dark?style=for-the-badge)](./ABSTRACT%20swahili.pdf)  
-[![Kalenjin Abstract](https://img.shields.io/badge/Abstract-Kalenjin-dark?style=for-the-badge)](./ABSTRACT%20kalenjin.pdf)  
-[![Abstract Presentation](https://img.shields.io/badge/Abstract-Presentation-dark?style=for-the-badge)](./ABSTRACT%20PRESENTATION.pdf)
+## 📑 Research & Project Abstracts
+- [English Abstract](ABSTRACT%20english.pdf)  
+- [Swahili Abstract](ABSTRACT%20swahili.pdf)  
+- [Kalenjin Abstract](ABSTRACT%20kalenjin.pdf)  
+- [Abstract Presentation](ABSTRACT%20PRESENTATION.pdf)
 
 ---
 
-### 🤝 Societal Analysis & Research
-[![Societal Challenges English](https://img.shields.io/badge/Societal-English-dark?style=for-the-badge)](./Societal%20Challenges%20english.pdf)  
-[![Societal Challenges Swahili](https://img.shields.io/badge/Societal-Swahili-dark?style=for-the-badge)](./Societal%20Challenges%20swahili.pdf)  
-[![Societal Challenges Kalenjin](https://img.shields.io/badge/Societal-Kalenjin-dark?style=for-the-badge)](./Societal%20Challenges%20kalenjin.pdf)
+## 🤝 Societal Analysis & Research
+- [English](Societal%20Challenges%20english.pdf)  
+- [Swahili](Societal%20Challenges%20swahili.pdf)  
+- [Kalenjin](Societal%20Challenges%20kalenjin.pdf)
 
 ---
 
-### 🖼️ Visual Portfolio
-[![Photographic Essay](https://img.shields.io/badge/Visual-Portfolio-dark?style=for-the-badge)](./PHOTOGRAPHIC%20ESSAY.pdf)
+## 🖼️ Visual Portfolio
+- [Photographic Essay](PHOTOGRAPHIC%20ESSAY.pdf)
 
 ---
 
-### 🌍 Cultural Heritage & Studies
-[![Kalenjin Culture](https://img.shields.io/badge/Kalenjin-Culture-dark?style=for-the-badge)](./African%20Culture%20kalenjin.pdf)  
-[![African Culture English](https://img.shields.io/badge/African-English-dark?style=for-the-badge)](./African%20Culture%20english.pdf)  
-[![African Culture Swahili](https://img.shields.io/badge/African-Swahili-dark?style=for-the-badge)](./African%20Culture%20swahili.pdf)
+## 🌍 Cultural Heritage & Studies
+- [Kalenjin Culture](African%20Culture%20kalenjin.pdf)  
+- [African Culture (English)](African%20Culture%20english.pdf)  
+- [African Culture (Swahili)](African%20Culture%20swahili.pdf)
 
 ---
 
-### 🎓 Academic & Coursework
+## 🎓 Academic & Coursework
 **Institution:** Dedan Kimathi University of Technology (DeKUT)  
 **Major:** Bachelor of Science in Information Technology  
 
-**Key Coursework:**
-* 🌐 Web Development: HTML5, CSS3, JavaScript, PHP
-* 💾 Database Management: SQL, MySQL, Database Design
-* 🛡️ Cybersecurity: Network Security, Information Systems Audit
-* 📊 Systems Analysis: OOAD
-* ⛓️ Emerging Tech: Blockchain, IoT, AI
+**Key Coursework:**  
+- 🌐 Web Development: HTML5, CSS3, JavaScript, PHP  
+- 💾 Database Management: SQL, MySQL, Database Design  
+- 🛡️ Cybersecurity: Network Security, Information Systems Audit  
+- 📊 Systems Analysis: OOAD  
+- ⛓️ Emerging Tech: Blockchain, IoT, AI
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
+## 🛠️ Tech Stack & Tools
 **Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/ezrah-kirui-3585b7354)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254701200070)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61571491926709)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezrahkirui02@gmail.com)
+## 📬 Let's Connect!
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://ke.linkedin.com/in/ezrah-kirui-3585b7354)  
+[![WhatsApp](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg)](https://wa.me/254701200070)  
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/azra.co.ke?igsh=YTJmcHhyY2M2dm5j)  
+[![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://www.facebook.com/profile.php?id=61571491926709)  
+[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)](https://github.com/ezrahkirui)  
+[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:ezrahkirui02@gmail.com)
 
 ---
 
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-<b>Built with ❤️ by Ezra Kiplangat | © 2024</b><br>
-<a href="https://ezrahkirui.github.io/ezra-kiplangat/">🌐 Visit Live Portfolio</a>
-</p>
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+
+Built with ❤️ by Ezra Kiplangat | © 2024
